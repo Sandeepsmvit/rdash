@@ -1,0 +1,176 @@
+Software Requirements Specification – Project Management System (rdash.io alternative)
+1. Introduction
+1.1 Purpose
+Build a clean, minimal, and robust project and task management web app (as on rdash.io) with Admin and User (normal) roles, using Angular (TypeScript) for the frontend, PHP as REST backend, and SQLite for data. All logic, authentication and routing must be simple yet secure and performant.
+
+1.2 Audience
+This SRS is intended for full-stack developers, frontend (Angular) devs, backend (PHP) devs, designers, and QA.
+
+1.3 Scope
+Deployed to a cPanel-accessible server, backend at cyberplatter.com/route.php.
+
+Database file(s) stored at dbo/data/ (SQLite).
+
+All features of rdash.io (project/task assignation, roles, dashboard, media in comments, etc.).
+
+For now: focus on login, role routing, user add, and dashboard features.
+
+2. Overall Description
+2.1 User Roles and Flows
+Admin:
+
+Can log in
+
+Can add User (with email and password)
+
+Can create Project, assign Users
+
+Can view all users, all tasks, all comments & media
+
+Dashboard shows updates and progress from all users
+
+User (Normal):
+
+Can log in with email/password
+
+Sees only "My Tasks" assigned by Admin
+
+Can update assigned Task status (e.g. In Progress, Done)
+
+Can comment, add photos (jpg, png), add video (mp4) to a Task
+
+Can see their comments/media on their tasks
+
+3. Functional Requirements
+3.1 Authentication
+Simple login form
+
+POST credentials to server (route.php?action=login)
+
+Store session token/JWT (simple session cookie for now is enough)
+
+On success, route to Admin Dashboard or User Dashboard, based on role
+
+3.2 Routing/Views
+/login – Login page
+
+/admin – Admin dashboard; redirect if not admin
+
+/user – User dashboard; redirect if not normal user
+
+/user-create – Admin-only, Create user form
+
+/dashboard – Admin/User dashboard view
+
+3.3 User Creation
+Admin can open user creation form
+
+Fill: Email, Password, Role (Admin/User)
+
+POST to route.php?action=createUser (Store hash of password, never plaintext)
+
+List of users visible to Admin
+
+3.4 Project and Task Management (summary)
+Admin can create Projects; Assign users
+
+Admin can create/assign Tasks, see task status for all users
+
+User can see "My Tasks" only (GET request filters by assigned userId)
+
+User can update Task status (In Progress, Review, Completed)
+
+Both can add comments to Tasks; user can attach photo/video in comment (uploads via multipart to PHP, saved in dbo/data media folder, store URL in comment row)
+
+3.5 Dashboard
+Admin Dashboard: Shows all user updates, tasks progress, recent comments/media.
+
+User Dashboard: Shows only their tasks, status, comments, and uploads.
+
+3.6 Media in Comments
+File upload (image, video) in /comment form (jpg, png, mp4 only, <10MB)
+
+URL/path referenced in comments table
+
+4. Data Structure (SQLite)
+All tables stored in dbo/data directory.
+
+users: id, email, password_hash, role (admin|user)
+
+projects: id, title, description, created_by (user)
+
+tasks: id, project_id, assigned_to (user id), description, status, due_date
+
+comments: id, task_id, author_id (user), comment_text, media_url, created_at
+
+5. Implementation Phases
+PHASE 1 (This Prompt – Login, User Roles, User Creation, Dashboard Route)
+Backend (PHP: route.php)
+/route.php?action=login (POST):
+
+Accept email/password
+
+Validate against users table
+
+Return success, role, and session token/cookie
+
+/route.php?action=createUser (POST):
+
+Check if requester is admin
+
+Insert new user with (hashed password), role, email
+
+Return status
+
+/route.php?action=listUsers (GET):
+
+Check if admin
+
+Return list of users (no password fields)
+
+Session system: Use PHP sessions or generate a JWT (store/admin as cookie)
+
+Directory for DB: dbo/data/app.db (or as provided)
+
+Frontend (Angular)
+/login component + auth service (with route guard based on role)
+
+/admin component (lists users, User Creation modal/form)
+
+/user component (shows only user's tasks - just a placeholder for now)
+
+/dashboard (role-based data fetch, just a placeholder for now)
+
+Routing guards to prevent role misnavigation
+
+On login: store token/role in localStorage/session, route to correct dashboard
+
+All HTTP requests point to cyberplatter.com/route.php
+
+6. Non-Functional Requirements
+Responsive/spa UI with Angular best practices
+
+Clean REST-like API endpoints
+
+DB & media files protected from direct web access by .htaccess (except APIs)
+
+Passwords always stored hashed (bcrypt recommended, or PHP’s password_hash)
+
+Basic error handling (invalid login, user already exists, etc.)
+
+7. Security
+Sessions expire after 24h/no activity
+
+Each API checks session validity and role
+
+File uploads validated for type/size (never allow .php, .js, etc.)
+
+8. Sample API (route.php) Interface (for frontend)
+Action	Method	Params	Description
+login	POST	email, password	Login, returns token/role/user
+createUser	POST	email, password, role (admin/user)	Create user (admin)
+listUsers	GET		List all users (admin)
+createProject*	POST	title, description	[future]
+assignTask*	POST	project_id, assigned_to, description	[future]
+addComment*	POST	task_id, comment_text, [media]	[future]
+getDashboard*	GET		[future]

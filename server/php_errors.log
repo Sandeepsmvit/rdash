@@ -1,0 +1,620 @@
+[30-Jan-2026 09:28:18 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1795
+[30-Jan-2026 09:28:18 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[30-Jan-2026 09:28:18 UTC] Number of headers: 6
+[30-Jan-2026 09:28:18 UTC] CSV Processing completed:
+[30-Jan-2026 09:28:18 UTC] - Total lines processed: 0
+[30-Jan-2026 09:28:18 UTC] - Errors encountered: 0
+[30-Jan-2026 09:28:18 UTC] - Unique states found: 0
+[30-Jan-2026 09:28:18 UTC] - Unique towns found: 0
+[30-Jan-2026 09:29:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1795
+[30-Jan-2026 09:29:12 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[30-Jan-2026 09:29:12 UTC] Number of headers: 6
+[30-Jan-2026 09:29:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[30-Jan-2026 09:29:12 UTC] Skipping line 2: empty state or town - State: 'karnataka', Town: ''
+[30-Jan-2026 09:29:12 UTC] CSV Processing completed:
+[30-Jan-2026 09:29:12 UTC] - Total lines processed: 0
+[30-Jan-2026 09:29:12 UTC] - Errors encountered: 1
+[30-Jan-2026 09:29:12 UTC] - Unique states found: 0
+[30-Jan-2026 09:29:12 UTC] - Unique towns found: 0
+[30-Jan-2026 09:52:17 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1795
+[30-Jan-2026 09:52:17 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[30-Jan-2026 09:52:17 UTC] Number of headers: 6
+[30-Jan-2026 09:52:17 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[30-Jan-2026 09:52:17 UTC] CSV Processing completed:
+[30-Jan-2026 09:52:17 UTC] - Total lines processed: 1
+[30-Jan-2026 09:52:17 UTC] - Errors encountered: 0
+[30-Jan-2026 09:52:17 UTC] - Unique states found: 1
+[30-Jan-2026 09:52:17 UTC] - Unique towns found: 1
+[30-Jan-2026 09:52:17 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[30-Jan-2026 09:52:17 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[30-Jan-2026 10:14:44 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[30-Jan-2026 10:14:44 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[30-Jan-2026 10:14:44 UTC] Number of headers: 6
+[30-Jan-2026 10:14:44 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 10:14:44 UTC] CSV Processing completed:
+[30-Jan-2026 10:14:44 UTC] - Total lines processed: 1
+[30-Jan-2026 10:14:44 UTC] - Errors encountered: 0
+[30-Jan-2026 10:14:44 UTC] - Unique states found: 1
+[30-Jan-2026 10:14:44 UTC] - Unique towns found: 1
+[30-Jan-2026 10:14:44 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[30-Jan-2026 10:14:44 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[30-Jan-2026 10:18:02 UTC] Received task data: {"project_id":1,"title":"Jalalahalli - associates","description":"Default task created for project: Jalalahalli (007)","status":"To Do","priority":"Medium","assigned_to":4,"progress_percentage":0,"photo_video_capture":false}
+[30-Jan-2026 10:18:02 UTC] Parameter count: 46
+[30-Jan-2026 10:34:25 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[30-Jan-2026 10:34:25 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[30-Jan-2026 10:34:25 UTC] Number of headers: 6
+[30-Jan-2026 10:34:25 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 10:34:25 UTC] CSV Processing completed:
+[30-Jan-2026 10:34:25 UTC] - Total lines processed: 1
+[30-Jan-2026 10:34:25 UTC] - Errors encountered: 0
+[30-Jan-2026 10:34:25 UTC] - Unique states found: 1
+[30-Jan-2026 10:34:25 UTC] - Unique towns found: 1
+[30-Jan-2026 10:34:25 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[30-Jan-2026 10:34:25 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[30-Jan-2026 10:34:26 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 10:35:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 10:35:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 10:37:37 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[30-Jan-2026 10:37:37 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[30-Jan-2026 10:37:37 UTC] Number of headers: 6
+[30-Jan-2026 10:37:37 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 10:37:37 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 10:37:37 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[30-Jan-2026 10:37:37 UTC] CSV Processing completed:
+[30-Jan-2026 10:37:37 UTC] - Total lines processed: 1
+[30-Jan-2026 10:37:37 UTC] - Errors encountered: 1
+[30-Jan-2026 10:37:37 UTC] - Unique states found: 1
+[30-Jan-2026 10:37:37 UTC] - Unique towns found: 1
+[30-Jan-2026 10:37:37 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[30-Jan-2026 10:37:37 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[30-Jan-2026 10:37:46 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 10:37:46 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 10:37:56 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 10:37:56 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 10:41:39 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 10:41:39 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 10:41:45 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 10:41:45 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:22:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[30-Jan-2026 11:22:13 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[30-Jan-2026 11:22:13 UTC] Number of headers: 6
+[30-Jan-2026 11:22:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:22:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:22:13 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[30-Jan-2026 11:22:13 UTC] CSV Processing completed:
+[30-Jan-2026 11:22:13 UTC] - Total lines processed: 1
+[30-Jan-2026 11:22:13 UTC] - Errors encountered: 1
+[30-Jan-2026 11:22:13 UTC] - Unique states found: 1
+[30-Jan-2026 11:22:13 UTC] - Unique towns found: 1
+[30-Jan-2026 11:22:13 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[30-Jan-2026 11:22:13 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[30-Jan-2026 11:22:20 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:22:20 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:22:52 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:22:52 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:22:52 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:23:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[30-Jan-2026 11:23:12 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[30-Jan-2026 11:23:12 UTC] Number of headers: 6
+[30-Jan-2026 11:23:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:23:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:23:12 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[30-Jan-2026 11:23:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:23:12 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[30-Jan-2026 11:23:12 UTC] CSV Processing completed:
+[30-Jan-2026 11:23:12 UTC] - Total lines processed: 1
+[30-Jan-2026 11:23:12 UTC] - Errors encountered: 2
+[30-Jan-2026 11:23:12 UTC] - Unique states found: 1
+[30-Jan-2026 11:23:12 UTC] - Unique towns found: 1
+[30-Jan-2026 11:23:12 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[30-Jan-2026 11:23:12 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[30-Jan-2026 11:23:34 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[30-Jan-2026 11:23:34 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[30-Jan-2026 11:23:34 UTC] Number of headers: 6
+[30-Jan-2026 11:23:34 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:23:34 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:23:34 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[30-Jan-2026 11:23:34 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:23:34 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[30-Jan-2026 11:23:34 UTC] CSV Processing completed:
+[30-Jan-2026 11:23:34 UTC] - Total lines processed: 1
+[30-Jan-2026 11:23:34 UTC] - Errors encountered: 2
+[30-Jan-2026 11:23:34 UTC] - Unique states found: 1
+[30-Jan-2026 11:23:34 UTC] - Unique towns found: 1
+[30-Jan-2026 11:23:34 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[30-Jan-2026 11:23:34 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[30-Jan-2026 11:23:39 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:23:39 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:23:39 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:29:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[30-Jan-2026 11:29:54 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[30-Jan-2026 11:29:54 UTC] Number of headers: 6
+[30-Jan-2026 11:29:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:29:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:29:54 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[30-Jan-2026 11:29:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:29:54 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[30-Jan-2026 11:29:54 UTC] CSV Processing completed:
+[30-Jan-2026 11:29:54 UTC] - Total lines processed: 1
+[30-Jan-2026 11:29:54 UTC] - Errors encountered: 2
+[30-Jan-2026 11:29:54 UTC] - Unique states found: 1
+[30-Jan-2026 11:29:54 UTC] - Unique towns found: 1
+[30-Jan-2026 11:29:54 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[30-Jan-2026 11:29:54 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[30-Jan-2026 11:29:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:29:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:29:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[30-Jan-2026 11:31:51 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[30-Jan-2026 11:31:51 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[30-Jan-2026 11:31:51 UTC] Number of headers: 6
+[30-Jan-2026 11:31:51 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:31:51 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:31:51 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[30-Jan-2026 11:31:51 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[30-Jan-2026 11:31:51 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[30-Jan-2026 11:31:51 UTC] CSV Processing completed:
+[30-Jan-2026 11:31:51 UTC] - Total lines processed: 1
+[30-Jan-2026 11:31:51 UTC] - Errors encountered: 2
+[30-Jan-2026 11:31:51 UTC] - Unique states found: 1
+[30-Jan-2026 11:31:51 UTC] - Unique towns found: 1
+[30-Jan-2026 11:31:51 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[30-Jan-2026 11:31:51 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[02-Feb-2026 07:43:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[02-Feb-2026 07:43:12 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[02-Feb-2026 07:43:12 UTC] Number of headers: 6
+[02-Feb-2026 07:43:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[02-Feb-2026 07:43:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[02-Feb-2026 07:43:12 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[02-Feb-2026 07:43:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[02-Feb-2026 07:43:12 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[02-Feb-2026 07:43:12 UTC] CSV Processing completed:
+[02-Feb-2026 07:43:12 UTC] - Total lines processed: 1
+[02-Feb-2026 07:43:12 UTC] - Errors encountered: 2
+[02-Feb-2026 07:43:12 UTC] - Unique states found: 1
+[02-Feb-2026 07:43:12 UTC] - Unique towns found: 1
+[02-Feb-2026 07:43:12 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[02-Feb-2026 07:43:12 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:32:48 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:32:48 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:32:48 UTC] Number of headers: 6
+[09-Feb-2026 06:32:48 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:32:48 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:32:48 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:32:48 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:32:48 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:32:48 UTC] CSV Processing completed:
+[09-Feb-2026 06:32:48 UTC] - Total lines processed: 1
+[09-Feb-2026 06:32:48 UTC] - Errors encountered: 2
+[09-Feb-2026 06:32:48 UTC] - Unique states found: 1
+[09-Feb-2026 06:32:48 UTC] - Unique towns found: 1
+[09-Feb-2026 06:32:48 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:32:48 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:32:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:32:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:32:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:35:15 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:35:15 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:35:15 UTC] Number of headers: 6
+[09-Feb-2026 06:35:15 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:35:15 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:35:15 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:35:15 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:35:15 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:35:15 UTC] CSV Processing completed:
+[09-Feb-2026 06:35:15 UTC] - Total lines processed: 1
+[09-Feb-2026 06:35:15 UTC] - Errors encountered: 2
+[09-Feb-2026 06:35:15 UTC] - Unique states found: 1
+[09-Feb-2026 06:35:15 UTC] - Unique towns found: 1
+[09-Feb-2026 06:35:15 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:35:15 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:35:43 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:35:43 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:35:43 UTC] Number of headers: 6
+[09-Feb-2026 06:35:43 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:35:43 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:35:43 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:35:43 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:35:43 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:35:43 UTC] CSV Processing completed:
+[09-Feb-2026 06:35:43 UTC] - Total lines processed: 1
+[09-Feb-2026 06:35:43 UTC] - Errors encountered: 2
+[09-Feb-2026 06:35:43 UTC] - Unique states found: 1
+[09-Feb-2026 06:35:43 UTC] - Unique towns found: 1
+[09-Feb-2026 06:35:43 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:35:43 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:35:50 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:35:50 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:35:50 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:37:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:37:12 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:37:12 UTC] Number of headers: 6
+[09-Feb-2026 06:37:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:37:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:37:12 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:37:12 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:37:12 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:37:12 UTC] CSV Processing completed:
+[09-Feb-2026 06:37:12 UTC] - Total lines processed: 1
+[09-Feb-2026 06:37:12 UTC] - Errors encountered: 2
+[09-Feb-2026 06:37:12 UTC] - Unique states found: 1
+[09-Feb-2026 06:37:12 UTC] - Unique towns found: 1
+[09-Feb-2026 06:37:12 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:37:12 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:37:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:37:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:37:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:38:06 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:38:06 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:38:06 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:38:06 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:39:11 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:39:11 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:39:11 UTC] Number of headers: 6
+[09-Feb-2026 06:39:11 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:11 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:11 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:39:11 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:11 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:39:11 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:11 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:39:11 UTC] CSV Processing completed:
+[09-Feb-2026 06:39:11 UTC] - Total lines processed: 1
+[09-Feb-2026 06:39:11 UTC] - Errors encountered: 3
+[09-Feb-2026 06:39:11 UTC] - Unique states found: 1
+[09-Feb-2026 06:39:11 UTC] - Unique towns found: 1
+[09-Feb-2026 06:39:11 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:39:11 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:39:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:39:13 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:39:13 UTC] Number of headers: 6
+[09-Feb-2026 06:39:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:13 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:39:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:13 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:39:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:13 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:39:13 UTC] CSV Processing completed:
+[09-Feb-2026 06:39:13 UTC] - Total lines processed: 1
+[09-Feb-2026 06:39:13 UTC] - Errors encountered: 3
+[09-Feb-2026 06:39:13 UTC] - Unique states found: 1
+[09-Feb-2026 06:39:13 UTC] - Unique towns found: 1
+[09-Feb-2026 06:39:13 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:39:13 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:39:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:39:14 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:39:14 UTC] Number of headers: 6
+[09-Feb-2026 06:39:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:14 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:39:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:14 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:39:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:14 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:39:14 UTC] CSV Processing completed:
+[09-Feb-2026 06:39:14 UTC] - Total lines processed: 1
+[09-Feb-2026 06:39:14 UTC] - Errors encountered: 3
+[09-Feb-2026 06:39:14 UTC] - Unique states found: 1
+[09-Feb-2026 06:39:14 UTC] - Unique towns found: 1
+[09-Feb-2026 06:39:14 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:39:14 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:39:16 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:39:16 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:39:16 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:39:16 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:39:43 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:39:43 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:39:43 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:39:43 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:39:57 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:39:57 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:39:57 UTC] Number of headers: 6
+[09-Feb-2026 06:39:57 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:57 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:57 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:39:57 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:57 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:39:57 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:39:57 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:39:57 UTC] CSV Processing completed:
+[09-Feb-2026 06:39:57 UTC] - Total lines processed: 1
+[09-Feb-2026 06:39:57 UTC] - Errors encountered: 3
+[09-Feb-2026 06:39:57 UTC] - Unique states found: 1
+[09-Feb-2026 06:39:57 UTC] - Unique towns found: 1
+[09-Feb-2026 06:39:57 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:39:57 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:40:17 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:40:17 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:40:17 UTC] Number of headers: 6
+[09-Feb-2026 06:40:17 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:17 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:17 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:40:17 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:17 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:40:17 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:17 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:40:17 UTC] CSV Processing completed:
+[09-Feb-2026 06:40:17 UTC] - Total lines processed: 1
+[09-Feb-2026 06:40:17 UTC] - Errors encountered: 3
+[09-Feb-2026 06:40:17 UTC] - Unique states found: 1
+[09-Feb-2026 06:40:17 UTC] - Unique towns found: 1
+[09-Feb-2026 06:40:17 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:40:17 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:40:18 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:40:18 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:40:18 UTC] Number of headers: 6
+[09-Feb-2026 06:40:18 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:18 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:18 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:40:18 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:18 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:40:18 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:18 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:40:18 UTC] CSV Processing completed:
+[09-Feb-2026 06:40:18 UTC] - Total lines processed: 1
+[09-Feb-2026 06:40:18 UTC] - Errors encountered: 3
+[09-Feb-2026 06:40:18 UTC] - Unique states found: 1
+[09-Feb-2026 06:40:18 UTC] - Unique towns found: 1
+[09-Feb-2026 06:40:18 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:40:18 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:40:18 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:40:18 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:40:18 UTC] Number of headers: 6
+[09-Feb-2026 06:40:18 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:18 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:18 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:40:18 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:18 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:40:18 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:40:18 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:40:18 UTC] CSV Processing completed:
+[09-Feb-2026 06:40:18 UTC] - Total lines processed: 1
+[09-Feb-2026 06:40:18 UTC] - Errors encountered: 3
+[09-Feb-2026 06:40:18 UTC] - Unique states found: 1
+[09-Feb-2026 06:40:18 UTC] - Unique towns found: 1
+[09-Feb-2026 06:40:18 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:40:18 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:40:19 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:40:19 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:40:19 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:40:19 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:41:03 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:41:03 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:41:03 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:41:03 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:41:03 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:41:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:41:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:41:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:41:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:41:54 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:41:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:41:55 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:41:55 UTC] Number of headers: 6
+[09-Feb-2026 06:41:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:41:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:41:55 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:41:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:41:55 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:41:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:41:55 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:41:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:41:55 UTC] Skipping line 6: empty state or town - State: 'West Bengal', Town: ''
+[09-Feb-2026 06:41:55 UTC] CSV Processing completed:
+[09-Feb-2026 06:41:55 UTC] - Total lines processed: 1
+[09-Feb-2026 06:41:55 UTC] - Errors encountered: 4
+[09-Feb-2026 06:41:55 UTC] - Unique states found: 1
+[09-Feb-2026 06:41:55 UTC] - Unique towns found: 1
+[09-Feb-2026 06:41:55 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:41:55 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:42:24 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:42:24 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:42:24 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:42:24 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:42:24 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:01 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:01 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:01 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:01 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:01 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:01 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:16 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:16 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:16 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:16 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:16 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:16 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:21 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:21 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:21 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:21 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:21 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:43:21 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:44:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:44:13 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:44:13 UTC] Number of headers: 6
+[09-Feb-2026 06:44:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:13 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:44:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:13 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:44:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:13 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:44:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:13 UTC] Skipping line 6: empty state or town - State: 'West Bengal', Town: ''
+[09-Feb-2026 06:44:13 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:13 UTC] Skipping line 7: empty state or town - State: 'test', Town: ''
+[09-Feb-2026 06:44:13 UTC] CSV Processing completed:
+[09-Feb-2026 06:44:13 UTC] - Total lines processed: 1
+[09-Feb-2026 06:44:13 UTC] - Errors encountered: 5
+[09-Feb-2026 06:44:13 UTC] - Unique states found: 1
+[09-Feb-2026 06:44:13 UTC] - Unique towns found: 1
+[09-Feb-2026 06:44:13 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:44:13 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:44:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:44:14 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:44:14 UTC] Number of headers: 6
+[09-Feb-2026 06:44:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:14 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:44:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:14 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:44:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:14 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:44:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:14 UTC] Skipping line 6: empty state or town - State: 'West Bengal', Town: ''
+[09-Feb-2026 06:44:14 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:44:14 UTC] Skipping line 7: empty state or town - State: 'test', Town: ''
+[09-Feb-2026 06:44:14 UTC] CSV Processing completed:
+[09-Feb-2026 06:44:14 UTC] - Total lines processed: 1
+[09-Feb-2026 06:44:14 UTC] - Errors encountered: 5
+[09-Feb-2026 06:44:14 UTC] - Unique states found: 1
+[09-Feb-2026 06:44:14 UTC] - Unique towns found: 1
+[09-Feb-2026 06:44:14 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:44:14 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:46:26 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:46:26 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:46:26 UTC] Number of headers: 6
+[09-Feb-2026 06:46:26 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:46:26 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:46:26 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:46:26 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:46:26 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:46:26 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:46:26 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:46:26 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:46:26 UTC] Skipping line 6: empty state or town - State: 'West Bengal', Town: ''
+[09-Feb-2026 06:46:26 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:46:26 UTC] Skipping line 7: empty state or town - State: 'test', Town: ''
+[09-Feb-2026 06:46:26 UTC] CSV Processing completed:
+[09-Feb-2026 06:46:26 UTC] - Total lines processed: 1
+[09-Feb-2026 06:46:26 UTC] - Errors encountered: 5
+[09-Feb-2026 06:46:26 UTC] - Unique states found: 1
+[09-Feb-2026 06:46:26 UTC] - Unique towns found: 1
+[09-Feb-2026 06:46:26 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:46:26 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:46:29 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:46:29 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:46:29 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:46:29 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:46:29 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:46:29 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:47:08 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:47:08 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:47:08 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:47:08 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:47:08 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:47:08 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2123
+[09-Feb-2026 06:47:41 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:47:41 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:47:41 UTC] Number of headers: 6
+[09-Feb-2026 06:47:41 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:47:41 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:47:41 UTC] Skipping line 3: empty state or town - State: 'test stat2', Town: ''
+[09-Feb-2026 06:47:41 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:47:41 UTC] Skipping line 4: empty state or town - State: 'Odisha', Town: ''
+[09-Feb-2026 06:47:41 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:47:41 UTC] Skipping line 5: empty state or town - State: 'Karnataka', Town: ''
+[09-Feb-2026 06:47:41 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:47:41 UTC] Skipping line 6: empty state or town - State: 'West Bengal', Town: ''
+[09-Feb-2026 06:47:41 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:47:41 UTC] Skipping line 7: empty state or town - State: 'test', Town: ''
+[09-Feb-2026 06:47:41 UTC] CSV Processing completed:
+[09-Feb-2026 06:47:41 UTC] - Total lines processed: 1
+[09-Feb-2026 06:47:41 UTC] - Errors encountered: 5
+[09-Feb-2026 06:47:41 UTC] - Unique states found: 1
+[09-Feb-2026 06:47:41 UTC] - Unique towns found: 1
+[09-Feb-2026 06:47:41 UTC] Sample states: [{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:47:41 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:50:45 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:50:45 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:50:45 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:50:45 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:50:45 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:50:45 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:50:56 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:50:56 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:50:56 UTC] Number of headers: 6
+[09-Feb-2026 06:50:56 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:50:56 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:50:56 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:50:56 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:50:56 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:50:56 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:50:56 UTC] CSV Processing completed:
+[09-Feb-2026 06:50:56 UTC] - Total lines processed: 6
+[09-Feb-2026 06:50:56 UTC] - Errors encountered: 0
+[09-Feb-2026 06:50:56 UTC] - Unique states found: 6
+[09-Feb-2026 06:50:56 UTC] - Unique towns found: 1
+[09-Feb-2026 06:50:56 UTC] Sample states: [{"name":"Karnataka","code":""},{"name":"Odisha","code":""},{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:50:56 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:51:15 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:15 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:15 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:15 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:15 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:15 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:19 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:19 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:19 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:19 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:19 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:19 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:51 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:51 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:51 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:51 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:51 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:51:51 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:09 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:09 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:09 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:09 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:09 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:09 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:55 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:52:58 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:52:58 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:52:58 UTC] Number of headers: 6
+[09-Feb-2026 06:52:58 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:52:58 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:52:58 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:52:58 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:52:58 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:52:58 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:52:58 UTC] CSV Processing completed:
+[09-Feb-2026 06:52:58 UTC] - Total lines processed: 6
+[09-Feb-2026 06:52:58 UTC] - Errors encountered: 0
+[09-Feb-2026 06:52:58 UTC] - Unique states found: 6
+[09-Feb-2026 06:52:58 UTC] - Unique towns found: 1
+[09-Feb-2026 06:52:58 UTC] Sample states: [{"name":"Karnataka","code":""},{"name":"Odisha","code":""},{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:52:58 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:53:04 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1821
+[09-Feb-2026 06:53:04 UTC] CSV Headers found: State | State_Code | District_Code | District_Name | Town_Code | Town_Name
+[09-Feb-2026 06:53:04 UTC] Number of headers: 6
+[09-Feb-2026 06:53:04 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:53:04 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:53:04 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:53:04 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:53:04 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:53:04 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 1847
+[09-Feb-2026 06:53:04 UTC] CSV Processing completed:
+[09-Feb-2026 06:53:04 UTC] - Total lines processed: 6
+[09-Feb-2026 06:53:04 UTC] - Errors encountered: 0
+[09-Feb-2026 06:53:04 UTC] - Unique states found: 6
+[09-Feb-2026 06:53:04 UTC] - Unique towns found: 1
+[09-Feb-2026 06:53:04 UTC] Sample states: [{"name":"Karnataka","code":""},{"name":"Odisha","code":""},{"name":"Test State","code":"TS"}]
+[09-Feb-2026 06:53:04 UTC] Sample towns: [{"name":"Test Town","state_name":"Test State","district_code":"DC01","district_name":"Test District","town_code":"TC01","town_name":"Test Town"}]
+[09-Feb-2026 06:53:22 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:53:22 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:53:22 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:53:22 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:53:22 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:53:22 UTC] PHP Deprecated:  str_getcsv(): the $escape parameter must be provided as its default value will change in /Users/sandeepsharma/Desktop/RDash/RDash/server/route.php on line 2126
+[09-Feb-2026 06:57:12 UTC] Received task data: {"project_id":2,"title":"HOSUR NEW - associates","description":"Default task created for project: HOSUR NEW (BLR-066)","status":"To Do","priority":"Medium","assigned_to":4,"progress_percentage":0,"photo_video_capture":false}
+[09-Feb-2026 06:57:12 UTC] Parameter count: 46
