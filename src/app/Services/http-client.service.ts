@@ -8,16 +8,25 @@ import { AuthService } from './auth.service'; // Keep the import for AuthService
   providedIn: 'root'
 })
 export class HttpClientService {
-  //https://aliceblue-jaguar-943425.hostingersite.com
-  private baseUrl = 'http://127.0.0.1:8000';
+  // Dynamic baseUrl based on environment
+  private baseUrl = this.getBaseUrl();
 
   // Declare _authService as a private property to store the lazily injected AuthService
   private _authService!: AuthService;
 
   constructor(
     private http: HttpClient,
-    private injector: Injector // Inject the Injector itself
+    private injector: Injector
   ) { }
+
+  private getBaseUrl(): string {
+    // Check if we're in production (Render) or development
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+      return 'http://127.0.0.1:8000'; // Development
+    } else {
+      return 'https://rdash-backend.onrender.com'; // Production
+    }
+  }
 
   // Getter to lazily get the AuthService instance
   private get authService(): AuthService {

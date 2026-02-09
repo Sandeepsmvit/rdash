@@ -360,6 +360,11 @@ class ProjectManagementSystem {
                 if ($method === 'POST') $this->createProject();
                 break;
                 
+            // Health check endpoint for Render
+            case $path === '/route/health':
+                $this->healthCheck();
+                break;
+            
             // Task routes
             case $path === '/tasks':
                 if ($method === 'GET') $this->getTasks();
@@ -2194,6 +2199,34 @@ private function getStateCityData() {
         } catch (Exception $e) {
             $this->sendError('Failed to delete State-City row: ' . $e->getMessage(), 500);
         }
+    }
+    
+    private function healthCheck() {
+        // Check database connection
+        try {
+            $stmt = $this->db->query("SELECT 1");
+            $databaseStatus = 'connected';
+        } catch (Exception $e) {
+            $databaseStatus = 'error: ' . $e->getMessage();
+        }
+        
+        // Check upload directory
+        $uploadDirWritable = is_writable(UPLOAD_PATH);
+        
+        $this->sendResponse([
+            'status' => 'healthy',
+            'timestamp' => date('Y-m-d H:i:s'),
+            'version' => '1.0.0',
+            'services' => [
+                'database' => $databaseStatus,
+                'uploads' => $uploadDirWritable ? 'writable' : 'not writable'
+            ],
+            'environment' => [
+                'php_version' => phpversion(),
+                'memory_limit' => ini_get('memory_limit'),
+                'max_execution_time' => ini_get('max_execution_time')
+            ]
+        ]);
     }
 }
 // Initialize and handle request

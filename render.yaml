@@ -1,0 +1,41 @@
+services:
+  # PHP Backend Service
+  - type: web
+    name: rdash-backend
+    runtime: php
+    plan: free
+    buildCommand: |
+      # Install dependencies and setup
+      composer install --no-dev --optimize-autoloader
+      chmod -R 755 server/
+      mkdir -p server/uploads
+      mkdir -p server/dbo/data
+    startCommand: |
+      # Start PHP built-in server
+      php -S 0.0.0.0:$PORT server/route.php
+    envVars:
+      - key: PORT
+        value: 8000
+      - key: PHP_INI_DIR
+        value: /opt/render/project/src
+    healthCheckPath: /route/health
+    autoDeploy: true
+    
+  # Angular Frontend Service
+  - type: web
+    name: rdash-frontend
+    runtime: static
+    plan: free
+    buildCommand: |
+      # Install dependencies and build Angular app
+      npm install
+      npm run build --prod
+    staticPublishPath: dist/rdash
+    envVars:
+      - key: NG_BUILD_COMMAND
+        value: "ng build --configuration production --base-href /"
+    routes:
+      - type: rewrite
+        source: /api/*
+        destination: https://rdash-backend.onrender.com/api/*
+    autoDeploy: true
