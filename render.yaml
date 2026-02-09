@@ -5,8 +5,7 @@ services:
     runtime: php
     plan: free
     buildCommand: |
-      # Install dependencies and setup
-      composer install --no-dev --optimize-autoloader
+      # Setup directories and permissions
       chmod -R 755 server/
       mkdir -p server/uploads
       mkdir -p server/dbo/data
