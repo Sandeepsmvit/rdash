@@ -10,8 +10,8 @@ services:
       mkdir -p server/uploads
       mkdir -p server/dbo/data
     startCommand: |
-      # Start PHP built-in server
-      php -S 0.0.0.0:$PORT server/route.php
+      # Start PHP built-in server with full path
+      /usr/bin/php -S 0.0.0.0:$PORT server/route.php
     envVars:
       - key: PORT
         value: 8000
