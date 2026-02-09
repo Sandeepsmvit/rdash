@@ -23,8 +23,10 @@ export class HttpClientService {
     // Check if we're in production (Render) or development
     if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
       return 'http://127.0.0.1:8000'; // Development
+    } else if (window.location.hostname === 'rdash-frontendd.onrender.com') {
+      return 'https://rdash-backend.onrender.com'; // Production - your actual URL
     } else {
-      return 'https://rdash-backend.onrender.com'; // Production
+      return 'https://rdash-backend.onrender.com'; // Fallback
     }
   }
 
