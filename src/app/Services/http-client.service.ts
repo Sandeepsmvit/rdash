@@ -24,9 +24,9 @@ export class HttpClientService {
     if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
       return 'http://127.0.0.1:8000'; // Development
     } else if (window.location.hostname === 'rdash-frontendd.onrender.com') {
-      return 'https://rdash-frontend-jh1o.onrender.com'; // Production - your actual backend URL
+      return 'https://rdash-backend.onrender.com'; // Production - correct backend URL
     } else {
-      return 'https://rdash-frontend-jh1o.onrender.com'; // Fallback
+      return 'https://rdash-backend.onrender.com'; // Fallback
     }
   }
 
